@@ -1,0 +1,1 @@
+Searcher program has written from scratch so, parallelization feature of pylucene is not utilised there that program will take almost 4 hours to run. So, I have also provided the output files in submission.
